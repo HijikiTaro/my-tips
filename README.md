@@ -35,3 +35,11 @@ plot_model(Dis, to_file='/content/gdrive/My Drive/****/Dis.png')
 plot_model(GAN, to_file='/content/gdrive/My Drive/****/GAN.png')
 
 ```
+
+# Google Colab
+## mount GDrive
+
+```
+from google.colab import drive
+drive.mount('/content/gdrive')
+```
