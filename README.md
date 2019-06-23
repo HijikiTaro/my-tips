@@ -3,6 +3,14 @@ my tips for javascript, jQuery, python
 
 
 # python 
+
+## mount GDrive at Google Colab
+
+```
+from google.colab import drive
+drive.mount('/content/gdrive')
+```
+
 ## create gif
 
 ``` python
@@ -36,10 +44,3 @@ plot_model(GAN, to_file='/content/gdrive/My Drive/****/GAN.png')
 
 ```
 
-# Google Colab
-## mount GDrive
-
-```
-from google.colab import drive
-drive.mount('/content/gdrive')
-```
