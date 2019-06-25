@@ -51,7 +51,36 @@ https://gitforwindows.org/
   
 ダウンロードされるのをひたすら待つ  
   
-* 
+* ダウンロードされたexeを実行する  
+![install102](https://github.com/HijikiTaro/my-tips/blob/master/VSCode/image/102.PNG "install102")
+
+* 「はい」をクリックし、「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* 下図の設定で「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Next」をクリックする  
+  
+* デフォルトのままで「Install」をクリックする  
+  
+* インストールされるのを待つ  
+  
+* デフォルトのままで「Finish」をクリックする  
+  
+
 
 ## 拡張機能
 ### Markdown All in One
