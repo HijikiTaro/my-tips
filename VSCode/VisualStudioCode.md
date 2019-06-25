@@ -52,3 +52,12 @@ https://gitforwindows.org/
 ダウンロードされるのをひたすら待つ  
   
 * 
+
+## 拡張機能
+### Markdown All in One
+* Visual Studio Code を起動して、「表示」→ 「拡張機能」を選ぶ
+* テキストボックスに 「markdown」と入力し、「Markdown All in One」をクリックしてインストールする
+  
+![install201](https://github.com/HijikiTaro/my-tips/blob/master/VSCode/image/201.PNG "install201")
+  
+  
