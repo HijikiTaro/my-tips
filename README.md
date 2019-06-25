@@ -1,6 +1,11 @@
 # my-tips
 my tips for javascript, jQuery, python
 
+- [my-tips](#my-tips)
+- [python](#python)
+  - [mount GDrive at Google Colab](#mount-GDrive-at-Google-Colab)
+  - [create gif](#create-gif)
+  - [visualize model](#visualize-model)
 
 # python 
 
