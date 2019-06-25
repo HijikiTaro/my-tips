@@ -2,6 +2,9 @@
 
 2019.06.23
 
+## 参考
+https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be
+  
 ## インストール
 * 下記URLをクリックし、画像の「Download For Windows」をクリックする  
 https://code.visualstudio.com/
@@ -40,3 +43,12 @@ https://code.visualstudio.com/
 * 下図の画面が表示されたら完了  
 ![install11](https://github.com/HijikiTaro/my-tips/blob/master/VSCode/image/011.PNG "install11")
   
+## GitHub連携
+* 下記URLをクリックし、画像の「Download」をクリックする
+https://gitforwindows.org/
+  
+![install101](https://github.com/HijikiTaro/my-tips/blob/master/VSCode/image/101.PNG "install101")
+  
+ダウンロードされるのをひたすら待つ  
+  
+* 
