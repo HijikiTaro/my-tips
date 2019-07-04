@@ -115,7 +115,7 @@
 2. Gitにてローカルリポジトリを作成する
 
 3. 「Terminal」→「New Terminal」をクリックする
-     ![aaa](image/116.PNG "aaa")
+     ![aaa](image/116.png "aaa")
 
 4. 下記コマンドを実行し、ローカルリポジトリとリモートリポジトリを連携する
     ```
