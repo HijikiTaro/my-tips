@@ -6,6 +6,7 @@
   - [参考](#%E5%8F%82%E8%80%83)
     - [Git](#Git)
     - [拡張機能](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD)
+  - [環境](#%E7%92%B0%E5%A2%83)
   - [Visual Studio Code インストール](#Visual-Studio-Code-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   - [Git](#Git-1)
     - [Git インストール](#Git-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
@@ -13,6 +14,7 @@
   - [拡張機能](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD-1)
     - [Markdown All in One](#Markdown-All-in-One)
     - [HTML Preview](#HTML-Preview)
+    - [Java Extension Pack](#Java-Extension-Pack)
 
 ## 参考
 
@@ -23,6 +25,13 @@
 
 ### 拡張機能
 - https://rui-log.com/vscode-html-cording/
+- https://qiita.com/Ninjaky/items/becaa5623eb7607210b4
+- https://www.suzu6.net/posts/130-vscode-for-java/
+
+## 環境
+- Window Home 10
+- Visual Studio Code:1.36.0
+
 
 ## Visual Studio Code インストール
 1. 下記URLをクリックし、画像の「Download For Windows」をクリックする
@@ -136,7 +145,7 @@
     ![aaa](image/201.PNG "aaa")
   
 ### HTML Preview
-1. 「拡張機能」で 「markdown」と入力し、「HTML Preview」をクリックしてインストールする
+1. 「拡張機能」で 「HTML」と入力し、「HTML Preview」をクリックしてインストールする
 
     ![aaa](image/202.PNG "aaa")
 
@@ -145,5 +154,30 @@
     ![aaa](image/203.PNG "aaa")
 
     ![aaa](image/204.PNG "aaa")
+
+### Java Extension Pack
+
+1. JDKを下記手順でインストール
+   
+2. 「拡張機能」で 「Java」と入力し、「Java Extension Pack」をクリックしてインストールする
+
+    ![aaa](image/205.PNG "aaa")
+
+3. 下図のエラーが出たので、「ReloadWindow」をクリック
+
+    ![aaa](image/206.PNG "aaa")
+
+4. 下図のJava Overviewで対象のJDKをダウンロード。今回はJDK8をダウンロード。
+
+    ![aaa](image/207.PNG "aaa")
+
+5. 下図の画面が表示されるので、「実行」をクリック。
+
+    ![aaa](image/208.PNG "aaa")
+
+   - 実行すると下図が出るため「実行」をクリック
+
+    ![aaa](image/209.PNG "aaa")
+
 
 
