@@ -2,19 +2,19 @@
 
 2019.06.29
 
-- [Visual Studio Code メモ](#Visual-Studio-Code-%E3%83%A1%E3%83%A2)
-  - [参考](#%E5%8F%82%E8%80%83)
-    - [Git](#Git)
-    - [拡張機能](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD)
-  - [環境](#%E7%92%B0%E5%A2%83)
-  - [Visual Studio Code インストール](#Visual-Studio-Code-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-  - [Git](#Git-1)
-    - [Git インストール](#Git-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-    - [Git 連携手順](#Git-%E9%80%A3%E6%90%BA%E6%89%8B%E9%A0%86)
-  - [拡張機能](#%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD-1)
-    - [Markdown All in One](#Markdown-All-in-One)
-    - [HTML Preview](#HTML-Preview)
-    - [Java Extension Pack](#Java-Extension-Pack)
+- [Visual Studio Code メモ](#visual-studio-code-%e3%83%a1%e3%83%a2)
+  - [参考](#%e5%8f%82%e8%80%83)
+    - [Git](#git)
+    - [拡張機能](#%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd)
+  - [開発環境](#%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83)
+  - [Visual Studio Code インストール](#visual-studio-code-%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab)
+  - [Git](#git-1)
+    - [Git インストール](#git-%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab)
+    - [Git 連携手順](#git-%e9%80%a3%e6%90%ba%e6%89%8b%e9%a0%86)
+  - [拡張機能](#%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd-1)
+    - [Markdown All in One](#markdown-all-in-one)
+    - [HTML Preview](#html-preview)
+    - [Java Extension Pack](#java-extension-pack)
 
 ## 参考
 
@@ -28,7 +28,7 @@
 - https://qiita.com/Ninjaky/items/becaa5623eb7607210b4
 - https://www.suzu6.net/posts/130-vscode-for-java/
 
-## 環境
+## 開発環境
 - Window Home 10
 - Visual Studio Code:1.36.0
 
