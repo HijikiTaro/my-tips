@@ -51,22 +51,22 @@
   - ![image](./image/Unity_10.PNG)
 - ここまででUnityHubセットアップ完了
 - 「インストール」をクリック
-  - 12
+  - ![image](./image/Unity_12.PNG)
 - 「Unity 2019.1.11f1」を選択し、「次へ」をクリック
-  - 13
+  - ![image](./image/Unity_13.PNG)
 - 下図を選択し、「次へ」をクリック
-  - 14
-  - 15
+  - ![image](./image/Unity_14.PNG)
+  - ![image](./image/Unity_15.PNG)
 - 下図を選択し、「実行」をクリック
-  - 16
+  - ![image](./image/Unity_16.PNG)
 - インストールが完了するまで待つ
-  - 17
+  - ![image](./image/Unity_17.PNG)
 - 下図になったらインストール完了
-  - 18
+  - ![image](./image/Unity_18.PNG)
 
 ## Android Studio
 - Android Studioダウンロードをクリック
-  - 1
+  - ![image](./image/Android_Studio_1.PNG)
 - チェックしてダウンロード
   - 2
 - ダウンロードした「android-studio-ide-183.5692245-windows.exe」を実行

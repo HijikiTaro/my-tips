@@ -2,14 +2,18 @@
 my tips for javascript, jQuery, python
 
 - [my-tips](#my-tips)
-- [IDE](#IDE)
+- [Tips](#tips)
 - [python](#python)
-  - [mount GDrive at Google Colab](#mount-GDrive-at-Google-Colab)
+  - [mount GDrive at Google Colab](#mount-gdrive-at-google-colab)
   - [create gif](#create-gif)
   - [visualize model](#visualize-model)
 
-# IDE
+# Tips
 - [Visual Studio Code](/VSCode/VisualStudioCode.md)
+- [XR](/XR/Unity.md)
+- [Docker](/Docker/Docker.md)
+- [Java](/Java/Java.md)
+- [DeepLearning](/DeepLearning/DeepLearning.md)
 
 # python 
 
