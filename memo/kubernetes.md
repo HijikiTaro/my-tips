@@ -15,6 +15,7 @@
 - [10分くらいでわかる、KubernetesとEKSの何が便利なのか](https://qiita.com/masachaco/items/3e50a1ac65cdd661a734)
 - [Amazon EKS の開始方法](https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/getting-started.html)
 - [AWS EKSの公式チュートリアルをやってみる](https://qiita.com/omukaik/items/b032f0b7621d85c74076)
+- [kubernetesで変わる開発スタイル 〜マイクロサービスじゃなくてもいいじゃない〜](https://speakerdeck.com/sgeengineer/kubernetesdebian-warukai-fa-sutairu-maikurosabisuziyanakutemoiiziyanai?slide=97)
 
 ## 開発環境
 - Windows 10 Home
