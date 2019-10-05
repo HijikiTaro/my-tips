@@ -4,27 +4,6 @@
 - python 3.6
 
 
-# Object Detection APIの実行
-- jupyter notebookの起動
-```sh
-#コマンド
-cd object_detection
-```
-```sh
-#実行結果なし
-```
-```sh
-#コマンド
-jupyter notebook
-```
-![image](./ObjectDetectionAPI/jupyter_1.PNG)
-
-- 実行
-- memo1：アウトプットが表示されない件
-> I have met this issue too, I have find a way in google, please comment out the matplotlib importing in the research/object_detection/visualization_utils.py as a temporary fix,
-> #import matplotlib; matplotlib.use('Agg') # pylint: disable=multiple-statements
-> #import matplotlib.pyplot as plt # pylint: disable=g-import-not-at-top
-
 
 # opencv
 ```sh

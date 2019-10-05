@@ -22,14 +22,23 @@
 
 #### インストール
 1. 「Next」をクリック
+
 ![image](./image/01_setup/Anaconda_2.PNG)
+
 1. 「I Agree」をクリック
+
 ![image](./image/01_setup/Anaconda_3.PNG)
+
 1. 下図のとおり選択し、「Next」をクリック
+
 ![image](./image/01_setup/Anaconda_4.PNG)
+
 1. デフォルトのまま、「Next」をクリック
+
 ![image](./image/01_setup/Anaconda_5.PNG)
+
 1. 下図のとおり選択し、「Install」をクリック
+
 ![image](./image/01_setup/Anaconda_6.PNG)
 ![image](./image/01_setup/Anaconda_7.PNG)
 
