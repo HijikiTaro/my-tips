@@ -82,7 +82,7 @@ Successfully installed Pillow-6.2.0
 - 前提：
   -  「Anaconda terminal」で以下を実行
 ### 手順
-
+- 「opencv_run.py」を実行する。ソースの中身は下記。
 ```py
 import cv2
 import datetime
