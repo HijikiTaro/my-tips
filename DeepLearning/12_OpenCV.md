@@ -1,6 +1,8 @@
 
 - [OpenCV](#opencv)
   - [環境](#%e7%92%b0%e5%a2%83)
+  - [環境構築(PC)](#%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89pc)
+    - [OpenCVのダウンロード](#opencv%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89)
   - [環境構築(Anaconda)](#%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89anaconda)
     - [構築後のライブラリ](#%e6%a7%8b%e7%af%89%e5%be%8c%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa)
     - [手順](#%e6%89%8b%e9%a0%86)
@@ -12,6 +14,10 @@
 ## 環境
 - OS：Windows 10 Home (64bit)
 - ツール：Anaconda (Python 3.7 version)
+## 環境構築(PC)
+### OpenCVのダウンロード
+- 顔認識のモデルをダウンロード
+[github](https://github.com/opencv/opencv)をダウンロードする。今回使用するのは「haarcascade_frontalface_default.xml」
 
 ## 環境構築(Anaconda)
 - 前提：
@@ -71,9 +77,6 @@ pip install Pillow
 
 Successfully installed Pillow-6.2.0
 ```
-
-- 顔認識のモデルをダウンロード
-[github](https://github.com/opencv/opencv)をダウンロードする。今回使用するのは「haarcascade_frontalface_default.xml」
 
 ## 実行(Anaconda)
 - 前提：
