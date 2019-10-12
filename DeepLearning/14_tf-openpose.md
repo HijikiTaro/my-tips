@@ -221,8 +221,7 @@ python run_webcam.py --model=mobilenet_thin --resize=432x368 --camera=0
 ## 参考
 - [github](https://github.com/ildoonet/tf-pose-estimation)
 - [tensorflow（tf-openpose）で画像から骨格推定](https://qiita.com/nanako_ut/items/974466acf065b95f984a)
+- [WindowsにSWIG導入](http://chachay.hatenablog.com/entry/2016/12/18/090010)
 - [Fix Python 3 on Windows error Microsoft Visual C++ 14.0 is required](https://www.scivision.dev/python-windows-visual-c-14-required/)
-- [Failed building wheel for pycocotools - Windows 10 conda](https://github.com/cocodataset/cocoapi/issues/169)
-- [How To Install Swig On MacOS, Linux And Windows](https://www.dev2qa.com/how-to-install-swig-on-macos-linux-and-windows/)
-- [Installing SWIG on Windows](https://simpletutorials.com/c/2135/Installing+SWIG+on+Windows)
 - [WindowsでChainerを導入するための Visual Studio Build Tool 2015 が見つからず困ったときは](https://qiita.com/SatoshiTerasaki/items/a7724040910c18cd0d55)
+- [Failed building wheel for pycocotools - Windows 10 conda](https://github.com/cocodataset/cocoapi/issues/169)
