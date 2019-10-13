@@ -167,7 +167,7 @@ Successfully installed Jupyter-1.0.0 MarkupSafe-1.1.1 Send2Trash-1.5.0 attrs-19.
 - Matplotlibのインストール
 ```sh
 # コマンド
-pip install Jupyter
+pip install Matplotlib
 ```
 ```sh
 # 結果
