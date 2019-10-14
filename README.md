@@ -7,7 +7,7 @@ my tips for etc
 # Tips
 - [Cloud-Computing](/Cloud-Computing/Cloud-Computing.md)
 - [DeepLearning](/DeepLearning/DeepLearning.md)
-- [Docker](/Docker/Docker.md)
+- [Docker](/Docker)
 - [Git](/Git/Git.md)
 - [GoogleColab](/GoogleColab/GoogleColab.md)
 - [Java](/Java/Java.md)
