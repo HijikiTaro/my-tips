@@ -58,11 +58,11 @@ Dockerを使える、以上。
 セットアップ実行による各環境の状態の概要イメージ図は下記となる(自分の脳内イメージ)
 
 インストール前
-![image](../Docker/image/Docker_1.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_1.PNG)
 Dockerインストール後
-![image](../Docker/image/Docker_2.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_2.PNG)
 Docker Composeインストール後
-![image](../Docker/image/Docker_3.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_3.PNG)
 
 ### 前提
 - AWSのアカウントを持っていること(EC2サービスを利用するため)
@@ -211,11 +211,11 @@ docker-compose version 1.23.1, build b02f1306
 操作実施による各環境の状態の概要イメージ図は下記となる(自分の脳内イメージ)
 
 実施前
-![image](../Docker/image/Docker_4.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_4.PNG)
 Docker基本手順実施後
-![image](../Docker/image/Docker_5.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_5.PNG)
 Docker Compose基本手順実施後
-![image](../Docker/image/Docker_6.PNG)
+![image](./image/02_Docker-in-AWS-EC2/Docker_6.PNG)
 
 
 ### Docker基本手順(例：nginxイメージの起動)
@@ -271,7 +271,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 ```
 http://{IPv4 パブリック IP}:8080
 ```
-![image](../Docker/image/demo_1.PNG)
+![image](./image/02_Docker-in-AWS-EC2/demo_1.PNG)
 
 ### Docker Compose基本手順
 #### Docker Compose実施用のディレクトリを作成する
@@ -377,7 +377,7 @@ web_1_cd3269ab739c |  * Restarting with stat
 ```
 http://{IPv4 パブリック IP}:5000
 ```
-![image](../Docker/image/demo_2.PNG)
+![image](./image/02_Docker-in-AWS-EC2/demo_2.PNG)
 
 
 ## 終わりに
