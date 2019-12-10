@@ -15,6 +15,7 @@
     - [Markdown All in One](#markdown-all-in-one)
     - [HTML Preview](#html-preview)
     - [Java Extension Pack](#java-extension-pack)
+    - [Spring Boot Extension Pack](#spring-boot-extension-pack)
 
 ## 参考
 
@@ -179,5 +180,7 @@
 
     ![aaa](image/209.PNG "aaa")
 
+### Spring Boot Extension Pack
 
+1. 「拡張機能」で 「Spring Boot Extension Pack」をクリックしてインストールする
 
