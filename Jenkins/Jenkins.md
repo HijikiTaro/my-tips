@@ -42,12 +42,27 @@ docker run -p 8080:8080 -p 50000:50000 jenkins-work
 docker run -p 9000:9000 -p 50000:50000 -v `pwd`/jenkins_home:/var/jenkins_home -d jenkins-work
 docker run -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts
 docker run -d -v jenkins_home:/var/jenkins_home -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts
-```
-- docker exec
-```
-docker exec -i -t 14ef96591ba0 /bin/bash
+
+docker run -p 8080:8080 -p 50000:50000 --restart=always -v jenkins-2150:/var/jenkins_home jenkins/jenkins:2.150.3
 ```
 
+
+```docker-compose
+version: '2'
+
+services:
+  jenkins:
+    image: 'jenkins:2.60.3'
+    container_name: jenkins
+    user: root
+    restart: always
+    ports:
+      - '8080:8080'
+      - '50000:50000'
+    volumes:
+      - ./data/jenkins:/var/jenkins_home
+#      - /var/run/docker.sock:/var/run/docker.sock
+```
 
 # reference
 - https://jenkins.io/

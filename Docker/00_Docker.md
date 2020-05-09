@@ -1,5 +1,10 @@
 # Docker
 ## command
+### build
+docker image build 
+```
+docker build -t {iamge name}:{tag} . -f {file name}
+```
 ### image
 docker image のリスト
 ```
@@ -15,12 +20,20 @@ docker run -p 8080:8080 -p 50000:50000 jenkins-work
 ### ps
 起動しているコンテナのリスト
 ```
-docker ps ls
+docker ps
 ```
 ### stop
 起動しているコンテナの停止
 ```
 docker stop <CONTAINER ID>
 ```
+### exec
+```
+docker exec -i -t 14ef96591ba0 /bin/bash
+```
+
 
 # Dockerfile
+
+# docker compose
+
